@@ -1,0 +1,6 @@
+1483||||4||||Ernest||||1||||2||||20 April 07||||regular||||Button-click sound||||
+2414||||4||||ADG3studios||||10||||12||||9 June 07||||regular||||ADG3_ambientPack2 : Crystal Chrysalis||||
+58||||5||||2xJump||||3||||0||||19 August 06||||regular||||Pink slinky||||
+1651||||5||||adfish||||13||||0||||9 May 07||||regular||||Mr. Funkstable||||
+2330||||7||||ADG3studios||||5||||7||||8 June 07||||regular||||ADG3_sadPack1 : Endless Wait||||
+961||||8||||pixilate||||5||||7||||15 January 07||||tools||||Wayne PX||||antialiased,caps,display,pixel,serif,western

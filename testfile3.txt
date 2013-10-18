@@ -1,0 +1,12 @@
+171|172|human1nt|Capital Tall|6|tools|18
+170|171|human1nt|Capital Short|10|tools|51
+172|173|human1nt|Elate|10|tools|24
+167|168|human1nt|Bok|10|tools|26
+165|166|human1nt|Basement|6|tools|127
+241|9044|andrey35|Chalk|10|tools|4
+165|166|human1nt|Basement|6|tools|127
+168|169|human1nt|Bolo|10|tools|16
+167|168|human1nt|Bok|10|tools|26
+173|174|human1nt|Jee Five|10|tools|134
+266|719|cristibaic|CA Aella|6|tools|8
+162|3096|pixilate|Hilda Px|6|tools|8
